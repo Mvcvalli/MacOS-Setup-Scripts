@@ -1,0 +1,41 @@
+#NewsBoat URL LIST
+#Something being on this list is NOT an endorsement. 
+
+#News  ===================================================================
+https://www.stuff.co.nz/feed "News"
+
+#Comics  =================================================================
+https://www.cbr.com/feed "Comics"
+
+#People  ==================================================================
+https://lukesmith.xyz/rss.xml "People"
+https://friendo.monster/rss.xml "People"
+https://hexdsl.co.uk/rss.xml "People"
+https://gideonwolfe.com/index.xml "People"
+https://stallman.org//rss/rss.xml "People"
+
+#Linux  ==================================================================
+https://www.omgubuntu.co.uk/feed "Linux"
+https://frontpagelinux.com/feed/ "Linux"
+https://feeds.feedburner.com/ItsFoss "Linux"
+https://news.itsfoss.com/feed/ "Linux"
+https://9to5linux.com/feed "Linux"
+https://thelinuxuser.com/feed/ "Linux"
+https://www.linuxtoday.com/biglt.rss "Linux"
+https://distrowatch.com//news/dw.xml "Linux"
+
+#Wrestling  ==================================================================
+https://www.wwe.com/rss.xml "Wrestling"
+https://wrestlingnews.co/feed/ "Wrestling"
+http://www.diva-dirt.com/feed/ "Wrestling"
+https://www.ringsidenews.com/feed/ "Wrestling"
+https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.wrestlinginc.com%2Frss%2Frss.xml "Wrestling"
+https://wrestlingrumors.net/feed "Wrestling"
+https://www.mandatory.com/feed "Wrestling"
+https://www.prowrestlingsheet.com/feed/ "Wrestling"
+
+#MMA ==================================================================
+https://www.ufc.com/rss.xml "MMA"
+https://mmajunkie.usatoday.com/feed "MMA"
+https://www.mmaweekly.com/feed "MMA"
+
