@@ -79,3 +79,6 @@ cd fonts
 ./install.sh
 cd
 
+brew tap homebrew/cask-fonts
+brew install --cask font-fira-code
+
