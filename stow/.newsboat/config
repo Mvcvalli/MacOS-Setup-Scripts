@@ -23,7 +23,7 @@ text-width 80
 
 goto-next-feed no
 
-browser "open -g -a 'Google Chrome' %u"
+browser "open -g -a 'Brave browser' %u"
 
 bind-key j down feedlist
 bind-key k up feedlist
@@ -33,6 +33,7 @@ bind-key J next-feed articlelist
 bind-key K prev-feed articlelist
 bind-key j down article
 bind-key k up article
+bind-key a toggle-article-read
 
 # -- misc ----------------------------------------------------------------------
 
