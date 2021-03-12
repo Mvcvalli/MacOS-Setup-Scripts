@@ -31,23 +31,24 @@ brew install --cask mailspring
 brew install --cask mpv
 brew install --cask onyx
 brew install --cask protonvpn
-brew install --cask quitter
-brew install --cask rectangle
-brew install --cask rocket
+# brew install --cask quitter
+# brew install --cask rectangle
+# brew install --cask rocket
 brew install --cask smcfancontrol
 
 # CLI
 brew install git
 brew install zsh
-brew install htop
+# brew install htop
 brew install gotop
 brew install ncdu
 brew install ranger
-brew install neofetch
+# brew install neofetch
 brew install pfetch
 brew install figlet
 brew install vim
 brew install newsboat
+brew install wifi-password
 
 # Installing Atom Packages
 apm install atom-html-preview
