@@ -41,6 +41,7 @@ brew install git
 brew install zsh
 # brew install htop
 # brew install gotop
+brew install bpytop
 brew install ncdu
 brew install ranger
 # brew install neofetch
