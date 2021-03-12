@@ -73,7 +73,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 # Installing powerlevel9k
-$ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 
 # Fonts
 git clone https://github.com/powerline/fonts.git
