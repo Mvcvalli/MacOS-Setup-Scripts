@@ -26,7 +26,7 @@ ZSH_THEME="spaceship"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
 figlet Welcome back, Mason 
-neofetch
+archey -c
 
 # SPACESHIP THEME CONFIG
 
