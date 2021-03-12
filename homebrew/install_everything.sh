@@ -40,15 +40,16 @@ brew install --cask smcfancontrol
 brew install git
 brew install zsh
 # brew install htop
-brew install gotop
+# brew install gotop
 brew install ncdu
 brew install ranger
 # brew install neofetch
-brew install pfetch
+# brew install pfetch
 brew install figlet
 brew install vim
 brew install newsboat
 brew install wifi-password
+brew install archey
 
 # Installing Atom Packages
 apm install atom-html-preview
