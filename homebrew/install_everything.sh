@@ -24,7 +24,6 @@ brew install --cask cheatsheet
 brew install --cask cloudflare-warp
 brew install --cask discord
 brew install --cask dozer
-brew install --cask firefox
 brew install --cask freetube
 brew install --cask lbry
 brew install --cask mailspring
@@ -37,6 +36,7 @@ brew install --cask smcfancontrol
 # brew install --cask quitter
 # brew install --cask rectangle
 # brew install --cask rocket
+# brew install --cask firefox
 
 # CLI - currently using
 brew install git
