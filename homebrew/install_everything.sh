@@ -14,7 +14,7 @@ brew cask install ${cask[@]} #Casks Installer
 mas install ${mas[@]} #Mac App Store Installer
 npm install ${npm[@]} #Install npm apps
 
-# Apps
+# Apps - currently using
 brew install --cask alacritty
 brew install --cask amethyst
 brew install --cask appcleaner
@@ -31,26 +31,31 @@ brew install --cask mailspring
 brew install --cask mpv
 brew install --cask onyx
 brew install --cask protonvpn
+brew install --cask smcfancontrol
+
+# Apps - Not uisng anymore
 # brew install --cask quitter
 # brew install --cask rectangle
 # brew install --cask rocket
-brew install --cask smcfancontrol
 
-# CLI
+# CLI - currently using
 brew install git
 brew install zsh
-# brew install htop
-# brew install gotop
 brew install bpytop
-brew install ncdu
 brew install ranger
-# brew install neofetch
-# brew install pfetch
 brew install figlet
 brew install vim
 brew install newsboat
 brew install wifi-password
 brew install archey
+brew install gdu
+
+# CLI - Not using anymore
+# brew install htop
+# brew install gotop
+# brew install ncdu
+# brew install neofetch
+# brew install pfetch
 
 # Installing Atom Packages
 apm install atom-html-preview
