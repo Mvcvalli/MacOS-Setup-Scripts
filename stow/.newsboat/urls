@@ -1,20 +1,26 @@
-#NewsBoat URL LIST
-#Something being on this list is NOT an endorsement. 
+# NewsBoat URL LIST
+# Something being on this list is NOT an endorsement.
+# No Youtube links will be here as I use Freetube and LBRY.
 
-#News  ===================================================================
+# News  ===================================================================
 https://www.stuff.co.nz/feed "News"
 
-#Comics  =================================================================
+# Comics  =================================================================
 https://www.cbr.com/feed "Comics"
 
-#People  ==================================================================
+# People  ==================================================================
 https://lukesmith.xyz/rss.xml "People"
 https://friendo.monster/rss.xml "People"
 https://hexdsl.co.uk/rss.xml "People"
 https://gideonwolfe.com/index.xml "People"
 https://stallman.org//rss/rss.xml "People"
+https://icyphox.sh/blog/feed.xml "People"
+https://christitus.com/index.xml "People"
 
-#Linux  ==================================================================
+# Cooking  ==================================================================
+https://based.cooking/rss.xml "Cooking"
+
+# Linux  ==================================================================
 https://www.omgubuntu.co.uk/feed "Linux"
 https://frontpagelinux.com/feed/ "Linux"
 https://feeds.feedburner.com/ItsFoss "Linux"
@@ -24,7 +30,7 @@ https://thelinuxuser.com/feed/ "Linux"
 https://www.linuxtoday.com/biglt.rss "Linux"
 https://distrowatch.com//news/dw.xml "Linux"
 
-#Wrestling  ==================================================================
+# Wrestling  ==================================================================
 https://www.wwe.com/rss.xml "Wrestling"
 https://wrestlingnews.co/feed/ "Wrestling"
 http://www.diva-dirt.com/feed/ "Wrestling"
@@ -34,8 +40,24 @@ https://wrestlingrumors.net/feed "Wrestling"
 https://www.mandatory.com/feed "Wrestling"
 https://www.prowrestlingsheet.com/feed/ "Wrestling"
 
-#MMA ==================================================================
+# MMA ==================================================================
 https://www.ufc.com/rss.xml "MMA"
 https://mmajunkie.usatoday.com/feed "MMA"
 https://www.mmaweekly.com/feed "MMA"
+
+# Twitter ==================================================================
+https://nitter.cc/WWEPPorn/rss "Twitter"
+https://nitter.cc/AEWNSFW/rss "Twitter"
+https://nitter.cc/fsf/rss "Twitter"
+
+# PeerTube ==================================================================
+https://lukesmith.xyz/peertube "PeerTube - Luke Smith"
+https://share.tube/feeds/videos.xml?accountId=108 "PeerTube - chris Were"
+
+# NSFW ==================================================================
+https://celebjihad.com/feed/ "NSFW"
+
+
+
+
 
