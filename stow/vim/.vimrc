@@ -22,6 +22,8 @@
 	Plug  'vim-airline/vim-airline-themes'
 	Plug 'jacoborus/tender.vim'
 	Plug 'morhetz/gruvbox'
+	Plug 'dikiaap/minimalist'
+	Plug 'liuchengxu/space-vim-dark'	
 	call plug#end()
 
 " Genreal.
@@ -80,6 +82,6 @@ let g:limelight_conceal_ctermfg = 'gray'
 let g:limelight_conceal_ctermfg = 240
 
 " Color Settings.
-colorscheme gruvbox  
-let g:airline_theme='gruvbox'
 set background=dark
+colorscheme desert
+hi Comment guifg=#5C6370 ctermfg=59
