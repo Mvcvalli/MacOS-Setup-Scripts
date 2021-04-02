@@ -83,5 +83,5 @@ let g:limelight_conceal_ctermfg = 240
 
 " Color Settings.
 set background=dark
-colorscheme desert
+colorscheme space-vim-dark
 hi Comment guifg=#5C6370 ctermfg=59
