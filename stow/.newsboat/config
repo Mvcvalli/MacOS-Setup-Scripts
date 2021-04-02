@@ -5,6 +5,7 @@ reload-time 120
 reload-threads 4
 download-retries 4
 download-timeout 10
+refresh-on-startup yes
 prepopulate-query-feeds yes
 
 # -- display -------------------------------------------------------------------
