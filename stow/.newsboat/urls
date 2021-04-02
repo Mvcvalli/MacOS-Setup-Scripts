@@ -1,25 +1,16 @@
 # NewsBoat URL LIST
-# Something being on this list is NOT an endorsement.
+# Something being on this list is NOT an endorsement. 
 # No Youtube links will be here as I use Freetube and LBRY.
 
 # News  ===================================================================
 https://www.stuff.co.nz/feed "News"
 
-# Comics  =================================================================
-https://www.cbr.com/feed "Comics"
-
-# People  ==================================================================
-https://lukesmith.xyz/rss.xml "People"
-https://friendo.monster/rss.xml "People"
-https://hexdsl.co.uk/rss.xml "People"
-https://gideonwolfe.com/index.xml "People"
-https://stallman.org//rss/rss.xml "People"
-https://icyphox.sh/blog/feed.xml "People"
-https://christitus.com/index.xml "People"
-
-# Cooking  ==================================================================
-https://based.cooking/rss.xml "Cooking"
-
+# Free Software Foundation  ==================================================================
+http://static.fsf.org/fsforg/rss/news.xml "FSF News"
+http://static.fsf.org/fsforg/rss/blogs.xml "FSF Blogs"
+http://www.gnu.org/rss/whatsnew.rss "GNU Project News"
+http://www.gnu.org/rss/quagga.rss "New Free Software"
+ 
 # Linux  ==================================================================
 https://www.omgubuntu.co.uk/feed "Linux"
 https://frontpagelinux.com/feed/ "Linux"
@@ -30,6 +21,15 @@ https://thelinuxuser.com/feed/ "Linux"
 https://www.linuxtoday.com/biglt.rss "Linux"
 https://distrowatch.com//news/dw.xml "Linux"
 
+# NSFW ==================================================================
+https://celebjihad.com/feed/ "NSFW"
+
+# Cooking  ==================================================================
+https://based.cooking/rss.xml "Cooking"
+
+# Comics  =================================================================
+https://www.cbr.com/feed "Comics"
+
 # Wrestling  ==================================================================
 https://www.wwe.com/rss.xml "Wrestling"
 https://wrestlingnews.co/feed/ "Wrestling"
@@ -37,8 +37,8 @@ http://www.diva-dirt.com/feed/ "Wrestling"
 https://www.ringsidenews.com/feed/ "Wrestling"
 https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Fwww.wrestlinginc.com%2Frss%2Frss.xml "Wrestling"
 https://wrestlingrumors.net/feed "Wrestling"
-https://www.mandatory.com/feed "Wrestling"
 https://www.prowrestlingsheet.com/feed/ "Wrestling"
+https://www.kayfabenews.com/feed "Wrestling" 
 
 # MMA ==================================================================
 https://www.ufc.com/rss.xml "MMA"
@@ -51,13 +51,16 @@ https://nitter.cc/AEWNSFW/rss "Twitter"
 https://nitter.cc/fsf/rss "Twitter"
 
 # PeerTube ==================================================================
-https://lukesmith.xyz/peertube "PeerTube - Luke Smith"
-https://share.tube/feeds/videos.xml?accountId=108 "PeerTube - chris Were"
+https://lukesmith.xyz/peertube "PeerTube - Luke Smith" 
+https://share.tube/feeds/videos.xml?accountId=108 "PeerTube - Chris Were"
 
-# NSFW ==================================================================
-https://celebjihad.com/feed/ "NSFW"
-
-
-
-
+# People  ==================================================================
+https://lukesmith.xyz/rss.xml "People"
+https://friendo.monster/rss.xml "People"
+https://hexdsl.co.uk/rss.xml "People"
+https://gideonwolfe.com/index.xml "People"
+https://stallman.org//rss/rss.xml "People"
+https://icyphox.sh/blog/feed.xml "People"
+https://christitus.com/index.xml "People"
+https://www.chrisatmachine.com/rss.xml "People"
 
