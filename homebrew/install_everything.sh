@@ -19,7 +19,7 @@ brew install --cask alacritty
 brew install --cask amethyst
 brew install --cask appcleaner
 brew install --cask atom
-brew install --cask brave-browser
+brew install --cask eloston-chromium
 brew install --cask cheatsheet
 brew install --cask cloudflare-warp
 brew install --cask discord
@@ -33,6 +33,7 @@ brew install --cask protonvpn
 brew install --cask smcfancontrol
 
 # Apps - Not uisng anymore
+# brew install --cask brave-browser
 # brew install --cask quitter
 # brew install --cask rectangle
 # brew install --cask rocket
@@ -47,14 +48,14 @@ brew install figlet
 brew install vim
 brew install newsboat
 brew install wifi-password
-brew install archey
-brew install gdu
+brew install neofetch
+brew install ncdu
 
 # CLI - Not using anymore
 # brew install htop
 # brew install gotop
-# brew install ncdu
-# brew install neofetch
+# brew install gdu
+# brew install archey
 # brew install pfetch
 
 # Installing Atom Packages
@@ -87,6 +88,6 @@ cd fonts
 ./install.sh
 cd
 
+# Fonts
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code
-
