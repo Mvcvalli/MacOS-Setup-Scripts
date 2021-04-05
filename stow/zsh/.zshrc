@@ -22,6 +22,11 @@ export ZSH="/Users/masonchoat/.oh-my-zsh"
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
 
+# Setting up Defaults
+export EDITOR='vim'
+export TERMINAL='alacritty'
+export BROWSER='chromium'
+
 ZSH_THEME="spaceship"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
