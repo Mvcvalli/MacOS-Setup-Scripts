@@ -32,6 +32,7 @@ brew install --cask onyx
 brew install --cask protonvpn
 brew install --cask smcfancontrol
 brew install --cask iina
+brew install --cask qbittorrent
 
 # Apps - Not uisng anymore
 # brew install --cask brave-browser
