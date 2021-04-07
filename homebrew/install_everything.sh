@@ -31,6 +31,7 @@ brew install --cask mpv
 brew install --cask onyx
 brew install --cask protonvpn
 brew install --cask smcfancontrol
+brew install --cask iina
 
 # Apps - Not uisng anymore
 # brew install --cask brave-browser
