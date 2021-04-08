@@ -56,7 +56,7 @@
 
 let mapleader = "space"
 
-" Goyo settings
+"Goyo settings
 function! s:goyo_enter()
     set noshowmode
     set noshowcmd
@@ -69,11 +69,10 @@ function! s:goyo_leave()
     set showmode
     set showcmd
     set cursorline
-    CocEnable
     Limelight!
-endfunction
+endfunction 
 
-" Goyo.vim integration
+"Goyo/limelight integration
 autocmd! User GoyoEnter Limelight
 autocmd! User GoyoLeave Limelight!
 
@@ -82,6 +81,7 @@ let g:limelight_conceal_ctermfg = 'gray'
 let g:limelight_conceal_ctermfg = 240
 
 " Color Settings.
-set background=dark
+set background=dark cursorline
 colorscheme space-vim-dark
 hi Comment guifg=#5C6370 ctermfg=59
+
