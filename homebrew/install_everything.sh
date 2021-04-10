@@ -6,8 +6,11 @@ xcode-select --install
 # Install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+brew --verison
 brew update
 brew upgrade
+brew cleanup -n
+brew cleanup
 
 brew install ${brew[@]} #Homebrew App Installer
 brew cask install ${cask[@]} #Casks Installer
@@ -18,7 +21,6 @@ npm install ${npm[@]} #Install npm apps
 brew install --cask alacritty
 brew install --cask amethyst
 brew install --cask appcleaner
-brew install --cask atom
 brew install --cask eloston-chromium
 brew install --cask cheatsheet
 brew install --cask cloudflare-warp
@@ -27,14 +29,16 @@ brew install --cask dozer
 brew install --cask freetube
 brew install --cask lbry
 brew install --cask mailspring
-brew install --cask mpv
 brew install --cask onyx
 brew install --cask protonvpn
 brew install --cask smcfancontrol
 brew install --cask iina
 brew install --cask qbittorrent
+brew install --cask macvim
 
 # Apps - Not uisng anymore
+# brew install --cask atom
+# brew install --cask mpv
 # brew install --cask brave-browser
 # brew install --cask quitter
 # brew install --cask rectangle
@@ -44,7 +48,7 @@ brew install --cask qbittorrent
 # CLI - currently using
 brew install git
 brew install zsh
-brew install bpytop
+brew install htop
 brew install ranger
 brew install figlet
 brew install vim
@@ -54,11 +58,11 @@ brew install pfetch
 brew install ncdu
 
 # CLI - Not using anymore
-# brew install htop
 # brew install gotop
 # brew install gdu
 # brew install archey
 # brew install neofetch
+# brew install bpytop
 
 # Installing Atom Packages
 apm install atom-html-preview
@@ -93,3 +97,9 @@ cd
 # Fonts
 brew tap homebrew/cask-fonts
 brew install --cask font-fira-code
+
+brew update
+brew upgrade
+brew cleanup -n
+brew cleanup
+brew doctor
