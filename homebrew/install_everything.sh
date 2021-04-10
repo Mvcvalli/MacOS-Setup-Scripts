@@ -50,7 +50,7 @@ brew install figlet
 brew install vim
 brew install newsboat
 brew install wifi-password
-brew install neofetch
+brew install pfetch
 brew install ncdu
 
 # CLI - Not using anymore
@@ -58,7 +58,7 @@ brew install ncdu
 # brew install gotop
 # brew install gdu
 # brew install archey
-# brew install pfetch
+# brew install neofetch
 
 # Installing Atom Packages
 apm install atom-html-preview
