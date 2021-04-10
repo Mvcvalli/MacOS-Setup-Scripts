@@ -63,11 +63,12 @@ brew install ncdu
 # brew install archey
 # brew install neofetch
 # brew install bpytop
+# brew install tree
 
-# Installing Atom Packages
-apm install atom-html-preview
-apm install html-template-generator
-apm install atom-beautify
+# Installing Atom Packages - Not using Atom anyomore.
+# apm install atom-html-preview
+# apm install html-template-generator
+# apm install atom-beautify
 
 # Installing Amfora
 brew tap makeworld-the-better-one/tap
