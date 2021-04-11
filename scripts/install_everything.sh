@@ -56,6 +56,7 @@ brew install newsboat
 brew install wifi-password
 brew install pfetch
 brew install ncdu
+brew install lynx
 
 # CLI - Not using anymore
 # brew install gotop
