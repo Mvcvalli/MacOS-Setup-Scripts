@@ -50,10 +50,8 @@ brew install git
 brew install zsh
 brew install htop
 brew install ranger
-brew install figlet
 brew install vim
 brew install newsboat
-brew install wifi-password
 brew install pfetch
 brew install ncdu
 brew install lynx
@@ -65,6 +63,8 @@ brew install lynx
 # brew install neofetch
 # brew install bpytop
 # brew install tree
+# brew install figlet
+# brew install wifi-password
 
 # Installing Atom Packages - Not using Atom anyomore.
 # apm install atom-html-preview
