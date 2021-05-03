@@ -2,8 +2,7 @@
 
 brew update
 brew upgrade
-brew cleanup -s
-brew cask cleanup
+brew cleanup
 
 brew doctor
 brew missing
