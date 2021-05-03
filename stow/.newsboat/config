@@ -40,4 +40,4 @@ bind-key a toggle-article-read
 
 unbind-key C feedlist
 confirm-exit no
-cleanup-on-quit no
+cleanup-on-quit yes
