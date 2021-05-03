@@ -9,13 +9,7 @@ xcode-select --install
 brew --verison
 brew update
 brew upgrade
-brew cleanup -n
 brew cleanup
-
-brew install ${brew[@]} #Homebrew App Installer
-brew cask install ${cask[@]} #Casks Installer
-mas install ${mas[@]} #Mac App Store Installer
-npm install ${npm[@]} #Install npm apps
 
 # Apps - currently using
 brew install --cask alacritty
@@ -30,9 +24,7 @@ brew install --cask freetube
 brew install --cask lbry
 brew install --cask mailspring
 brew install --cask onyx
-brew install --cask protonvpn
 brew install --cask smcfancontrol
-brew install --cask iina
 brew install --cask qbittorrent
 brew install --cask macvim
 
@@ -44,6 +36,8 @@ brew install --cask macvim
 # brew install --cask rectangle
 # brew install --cask rocket
 # brew install --cask firefox
+# brew install --cask iina
+# brew install --cask protonvpn
 
 # CLI - currently using
 brew install git
@@ -102,6 +96,5 @@ brew install --cask font-fira-code
 
 brew update
 brew upgrade
-brew cleanup -n
 brew cleanup
 brew doctor
