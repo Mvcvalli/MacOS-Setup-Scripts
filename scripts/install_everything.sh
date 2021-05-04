@@ -47,7 +47,6 @@ brew install vim
 brew install newsboat
 brew install pfetch
 brew install ncdu
-brew install lynx
 
 # CLI - Not using anymore
 # brew install gotop
@@ -58,8 +57,9 @@ brew install lynx
 # brew install tree
 # brew install figlet
 # brew install wifi-password
+# brew install lynx
 
-# Installing Atom Packages - Not using Atom anyomore.
+# Installing Atom Packages 
 # apm install atom-html-preview
 # apm install html-template-generator
 # apm install atom-beautify
