@@ -17,14 +17,12 @@ brew install --cask appcleaner
 brew install --cask eloston-chromium
 brew install --cask cheatsheet
 brew install --cask cloudflare-warp
-brew install --cask discord
 brew install --cask dozer
 brew install --cask freetube
 brew install --cask lbry
 brew install --cask mailspring
 brew install --cask onyx
 brew install --cask smcfancontrol
-brew install --cask qbittorrent
 brew install --cask macvim
 
 # Apps - Not uisng anymore
@@ -37,6 +35,8 @@ brew install --cask macvim
 # brew install --cask firefox
 # brew install --cask iina
 # brew install --cask protonvpn
+# brew install --cask qbittorrent
+# brew install --cask discord
 
 # CLI - currently using
 brew install git
