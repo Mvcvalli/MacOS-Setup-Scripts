@@ -24,6 +24,7 @@ brew install --cask mailspring
 brew install --cask onyx
 brew install --cask smcfancontrol
 brew install --cask macvim
+brew install --cask element
 
 # Apps - Not uisng anymore
 # brew install --cask atom
