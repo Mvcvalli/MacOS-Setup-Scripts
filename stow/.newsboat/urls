@@ -2,21 +2,21 @@
 # Something being on this list is NOT an endorsement. 
 # No Youtube links will be here as I use PeerTube and LBRY.
 
-# News  ===================================================================
+# News ===================================================================
 https://www.stuff.co.nz/feed "News"
 https://www.reddit.com/r/news.rss "News"
 
-# Tech Rights  ===================================================================
+# Tech Rights ===================================================================
 http://techrights.org/feed/
 http://techrights.org/feed/atom/
 
-# Free Software Foundation  ==================================================================
+# Free Software Foundation ==================================================================
 http://static.fsf.org/fsforg/rss/news.xml "FSF News"
 http://static.fsf.org/fsforg/rss/blogs.xml "FSF Blogs"
 http://www.gnu.org/rss/whatsnew.rss "GNU Project News"
 http://www.gnu.org/rss/quagga.rss "New Free Software"
  
-# Linux  ==================================================================
+# Linux ==================================================================
 https://www.omgubuntu.co.uk/feed "Linux"
 https://frontpagelinux.com/feed/ "Linux"
 https://feeds.feedburner.com/ItsFoss "Linux"
@@ -28,7 +28,7 @@ https://distrowatch.com//news/dw.xml "Linux"
 https://www.linuxfoundation.org/feed/ "Linux"
 https://www.linuxfoundation.org/feed/ "Linux"
 
-# Privacy  ==================================================================
+# Privacy ==================================================================
 https://www.reddit.com/r/privacy.rss "Privacy"
 https://www.reddit.com/r/privacytoolsIO.rss "Privacy"
 https://blog.privacytools.io/rss/ "Privacy
@@ -36,15 +36,15 @@ https://blog.privacytools.io/rss/ "Privacy
 # Celebrity ==================================================================
 https://celebjihad.com/feed/ "Celebrity"
 
-# Cooking  ==================================================================
+# Cooking ==================================================================
 https://based.cooking/rss.xml "Cooking"
 
-# Comics  =================================================================
+# Comics =================================================================
 https://www.cbr.com/feed "Comics"
 https://speedforce.org/feed/ "Comics"
 https://www.reddit.com/r/DCcomics.rss "Comics - DC" 
 
-# Wrestling  ==================================================================
+# Wrestling ==================================================================
 https://www.wwe.com/rss.xml "Wrestling"
 https://www.njpw1972.com/feed "Wrestling"
 
@@ -64,7 +64,7 @@ https://share.tube/feeds/videos.xml?accountId=538 "PeerTube - HexDSL"
 https://share.tube/feeds/videos.xml?accountId=108 "PeerTube - Chris Were"
 https://share.tube/feeds/videos.xml?videoChannelId=656 "PeerTube - Trendy Talk"
 
-# People  ==================================================================
+# People ==================================================================
 https://lukesmith.xyz/rss.xml "People"
 https://friendo.monster/rss.xml "People"
 https://hexdsl.co.uk/rss.xml "People"
