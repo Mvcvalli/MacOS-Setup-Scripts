@@ -14,16 +14,17 @@
 " Plug in manager, managing them plugs.
  call plug#begin('~/.vim/plugged')
  " Tools
- 	Plug 'junegunn/goyo.vim'
-  	Plug  'junegunn/limelight.vim'
-	Plug  'vim-airline/vim-airline'
+ 	Plug	'junegunn/goyo.vim'
+  	Plug 	'junegunn/limelight.vim'
+	Plug 	'vim-airline/vim-airline'
+	Plug	'tpope/vim-eunuch'
 	
 " Color Scheme	
-	Plug  'vim-airline/vim-airline-themes'
-	Plug 'jacoborus/tender.vim'
-	Plug 'morhetz/gruvbox'
-	Plug 'dikiaap/minimalist'
-	Plug 'liuchengxu/space-vim-dark'	
+	Plug	'vim-airline/vim-airline-themes'
+	Plug	'jacoborus/tender.vim'
+	Plug	'morhetz/gruvbox'
+	Plug	'dikiaap/minimalist'
+	Plug	'liuchengxu/space-vim-dark'	
 	call plug#end()
 
 " Genreal.
