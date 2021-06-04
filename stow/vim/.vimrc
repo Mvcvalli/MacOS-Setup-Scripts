@@ -50,7 +50,7 @@
 	set hlsearch
 	set incsearch
 	set noswapfile
-       	set wildmenu
+       	set wildmenu=list:longest,full
 	set spell spelllang=en_nz 
 	set spell 
 
