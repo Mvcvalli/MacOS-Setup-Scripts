@@ -2,7 +2,7 @@
 
 auto-reload yes
 reload-time 120
-reload-threads 4
+reload-threads 8
 download-retries 4
 download-timeout 10
 refresh-on-startup yes
@@ -41,3 +41,4 @@ bind-key a toggle-article-read
 unbind-key C feedlist
 confirm-exit no
 cleanup-on-quit yes
+delete-read-articles-on-quit yes
