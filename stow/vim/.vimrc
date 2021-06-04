@@ -57,7 +57,6 @@
 	
 " Key-bindings
 let mapleader = "space"
-nnoremap <leader><ENTER> :Goyo<CR>
 
 " Goyo settings
 function! s:goyo_enter()
