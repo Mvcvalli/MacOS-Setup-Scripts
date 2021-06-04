@@ -54,10 +54,12 @@
 	set wildmode=list:longest,full
 	set spell spelllang=en_nz 
 	set spell 
-
+	
+" Key-bindings
 let mapleader = "space"
+nnoremap <leader><ENTER> :Goyo<CR>
 
-"Goyo settings
+" Goyo settings
 function! s:goyo_enter()
     set noshowmode
     set noshowcmd
@@ -73,7 +75,7 @@ function! s:goyo_leave()
     Limelight!
 endfunction 
 
-"Goyo/limelight integration
+" Goyo/limelight integration
 autocmd! User GoyoEnter Limelight
 autocmd! User GoyoLeave Limelight!
 
