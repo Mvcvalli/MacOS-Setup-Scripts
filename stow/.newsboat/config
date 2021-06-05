@@ -1,4 +1,4 @@
-# -- feeds ---------------------------------------------------------------------
+# Feeds ===================================================================
 
 auto-reload yes
 reload-time 120
@@ -8,7 +8,7 @@ download-timeout 10
 refresh-on-startup yes
 prepopulate-query-feeds yes
 
-# -- display -------------------------------------------------------------------
+# Display ===================================================================
 
 show-read-feeds no
 feed-sort-order unreadarticlecount-asc
@@ -20,7 +20,7 @@ color listfocus_unread blue default reverse bold
 
 text-width 80
 
-# -- navigation ----------------------------------------------------------------
+# Navigation ===================================================================
 
 goto-next-feed no
 
@@ -36,7 +36,7 @@ bind-key j down article
 bind-key k up article
 bind-key a toggle-article-read
 
-# -- misc ----------------------------------------------------------------------
+# Misc ===================================================================
 
 unbind-key C feedlist
 confirm-exit no
