@@ -26,6 +26,10 @@ https://distrowatch.com//news/dw.xml "Linux"
 https://www.linuxfoundation.org/feed/ "Linux"
 https://www.linuxfoundation.org/feed/ "Linux"
 
+# Arch Linux Wiki ==================================================================
+https://archlinux.org/feeds/news/
+https://archlinux.org/feeds/packages/
+
 # Privacy ==================================================================
 https://www.reddit.com/r/privacy.rss "Privacy"
 https://www.reddit.com/r/privacytoolsIO.rss "Privacy"
