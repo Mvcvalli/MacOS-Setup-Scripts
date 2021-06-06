@@ -27,6 +27,7 @@
 	call plug#end()
 
 " Genreal.
+	filetype plugin on
 	set nocompatible
 	set encoding=utf-8
 	syntax enable
@@ -81,6 +82,13 @@ autocmd! User GoyoLeave Limelight!
 " Color name (:help cterm-colors) or ANSI code
 let g:limelight_conceal_ctermfg = 'gray'
 let g:limelight_conceal_ctermfg = 240
+
+" Pencil 
+augroup pencil
+  autocmd!
+  autocmd FileType markdown,mkd call pencil#init()
+  autocmd FileType text         call pencil#init()
+augroup END
 
 " Color Settings.
 set background=dark cursorline
