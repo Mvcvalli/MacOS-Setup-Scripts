@@ -29,12 +29,24 @@ ZSH_THEME="spaceship"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 pfetch
 
-# Aliases
+# Aliases  
+alias q!='exit'
+alias cls='clear'
 alias v='vim'
-alias f='ranger'
 alias n='ncdu'
+alias f='ranger'
+alias nb='newsboat'
 alias a='amfora'
-alias tty='tty-clock -t'
+alias tty='tty-clock -t -c'
+
+# MacOS Package Manager Aliases
+alias install='brew install'
+alias cinstall='brew install --cask'
+alias reinstall='brew reinstall'
+alias update='brew update'
+alias upgrade='brew upgrade'
+alias cleanup='brew cleanup'
+alias doctor='brew doctor'
 
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
