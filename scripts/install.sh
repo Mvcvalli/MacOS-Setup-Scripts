@@ -60,6 +60,7 @@ brew install ncdu
 # brew install wifi-password
 # brew install lynx
 # brew install tty-clock
+# brew install cmatrix
 
 # Installing Atom Packages 
 # apm install atom-html-preview
