@@ -37,7 +37,7 @@ alias n='ncdu'
 alias f='ranger'
 alias nb='newsboat'
 alias a='amfora'
-alias tty='tty-clock -t -c'
+alias tty='tty-clock -t -c -D'
 
 # MacOS Package Manager Aliases
 alias install='brew install'
