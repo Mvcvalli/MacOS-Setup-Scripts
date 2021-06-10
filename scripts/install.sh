@@ -48,7 +48,6 @@ brew install vim
 brew install newsboat
 brew install pfetch
 brew install ncdu
-brew install tty-clock
 
 # CLI - Not using anymore
 # brew install gotop
