@@ -1,7 +1,4 @@
-"__   _(_)_ __ ___  _ __ ___
-\ \ / | | '_ ` _ \| '__/ __|
- \ V /| | | | | | | | | (__
-  \_/ |_|_| |_| |_|_|  \___|
+" Mason's .vimrc
 
 " Plugin manager (Install if not found)
   	if empty(glob('~/.config/nvim/autoload/plug.vim'))
