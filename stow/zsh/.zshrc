@@ -29,7 +29,7 @@ ZSH_THEME="spaceship"
 ZSH_THEME="powerlevel10k/powerlevel10k"
 pfetch
 
-# Aliases  
+# Aliases - App launchers
 alias q='exit'
 alias cls='clear'
 alias v='vim'
@@ -39,7 +39,7 @@ alias nb='newsboat'
 alias a='amfora'
 alias tty='tty-clock -t -c -D -B'
 
-# MacOS (Homebrew) Package Manager Aliases
+# Aliases - Homebrew (Package Manager)
 alias install='brew install'
 alias cinstall='brew install --cask'
 alias uninstall='brew uninstall'
