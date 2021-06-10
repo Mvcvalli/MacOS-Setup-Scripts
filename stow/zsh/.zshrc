@@ -49,7 +49,7 @@ alias upgrade='brew upgrade'
 alias cleanup='brew cleanup'
 alias doctor='brew doctor'
 
-# Terminal maintenance
+# Aliases - Terminal maintenance
 alias up='update && upgrade && clear && pfetch'
 alias fetch='clear && pfetch'
 alias cl='cleanup && doctor'
