@@ -30,7 +30,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 pfetch
 
 # Aliases  
-alias q!='exit'
+alias q='exit'
 alias cls='clear'
 alias v='vim'
 alias n='ncdu'
@@ -39,7 +39,7 @@ alias nb='newsboat'
 alias a='amfora'
 alias tty='tty-clock -t -c -D -B'
 
-# MacOS Package Manager Aliases
+# MacOS (Homebrew) Package Manager Aliases
 alias install='brew install'
 alias cinstall='brew install --cask'
 alias uninstall='brew uninstall'
