@@ -49,6 +49,11 @@ alias upgrade='brew upgrade'
 alias cleanup='brew cleanup'
 alias doctor='brew doctor'
 
+# Terminal maintenance
+alias up='update && upgrade && clear && pfetch'
+alias fetch='clear && pfetch'
+alias cl='cleanup && doctor'
+
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
 SPACESHIP_DIR_TRUNC='1' # show only last directory
