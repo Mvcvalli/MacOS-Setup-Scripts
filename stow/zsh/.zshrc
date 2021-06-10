@@ -34,7 +34,7 @@ alias v='vim'
 alias f='ranger'
 alias n='ncdu'
 alias a='amfora'
-alias tty='tty-clock'
+alias tty='tty-clock -t'
 
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
