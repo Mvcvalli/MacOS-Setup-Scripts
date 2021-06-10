@@ -17,7 +17,7 @@
  	Plug	'junegunn/goyo.vim'
   	Plug 	'junegunn/limelight.vim'
 	Plug 	'vim-airline/vim-airline'
-	Plug	'tpope/vim-eunuch'
+        Plug 'junegunn/vim-easy-align'
 " Color Scheme	
  	Plug	'vim-airline/vim-airline-themes'
  "	Plug	'jacoborus/tender.vim'
