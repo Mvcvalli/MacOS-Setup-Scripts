@@ -54,6 +54,9 @@ alias up='update && upgrade && clear && pfetch'
 alias fetch='clear && pfetch'
 alias cl='cleanup && doctor'
 
+# Aliases - Git
+alias clone='cd downloads && git clone'
+
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
 SPACESHIP_DIR_TRUNC='1' # show only last directory
