@@ -1,19 +1,21 @@
 # NewsBoat URL LIST
 # Something being on this list is NOT an endorsement. 
 
-# News ===================================================================
-https://www.stuff.co.nz/feed "News"
-https://www.reddit.com/r/news.rss "News"
-
-# Tech Rights ===================================================================
-http://techrights.org/feed/
+# NSFW ==================================================================
+https://celebjihad.com/feed/ "Celebrity - NSFW"
+https://www.spankingcatalog.com/homepage/feed/ "NSFW"
+https://www.spankingreviews.com/index.php/feed/ "NSFW"
 
 # Free Software Foundation ==================================================================
 http://static.fsf.org/fsforg/rss/news.xml "FSF News"
 http://static.fsf.org/fsforg/rss/blogs.xml "FSF Blogs"
 http://www.gnu.org/rss/whatsnew.rss "GNU Project News"
 http://www.gnu.org/rss/quagga.rss "New Free Software"
- 
+
+# Arch Linux Wiki ==================================================================
+https://archlinux.org/feeds/news/
+https://archlinux.org/feeds/packages/
+
 # Linux ==================================================================
 https://www.omgubuntu.co.uk/feed "Linux"
 https://frontpagelinux.com/feed/ "Linux"
@@ -26,21 +28,16 @@ https://distrowatch.com//news/dw.xml "Linux"
 https://www.linuxfoundation.org/feed/ "Linux"
 https://www.linuxfoundation.org/feed/ "Linux"
 
-# Arch Linux Wiki ==================================================================
-https://archlinux.org/feeds/news/
-https://archlinux.org/feeds/packages/
+# News ===================================================================
+https://www.stuff.co.nz/feed "News"
+https://www.reddit.com/r/news.rss "News"
+
+# Tech Rights ===================================================================
+http://techrights.org/feed/
 
 # Privacy ==================================================================
 https://www.reddit.com/r/privacy.rss "Privacy"
 https://www.reddit.com/r/privacytoolsIO.rss "Privacy"
-
-# NSFW ==================================================================
-https://celebjihad.com/feed/ "Celebrity - NSFW"
-https://www.spankingcatalog.com/homepage/feed/ "NSFW"
-https://www.spankingreviews.com/index.php/feed/ "NSFW"
-
-# Cooking ==================================================================
-https://based.cooking/rss.xml "Cooking"
 
 # Comics =================================================================
 https://www.cbr.com/feed "Comics"
@@ -55,6 +52,9 @@ https://www.njpw1972.com/feed "Wrestling"
 https://www.ufc.com/rss.xml "MMA"
 https://mmajunkie.usatoday.com/feed "MMA"
 https://www.mmaweekly.com/feed "MMA"
+
+# Cooking ==================================================================
+https://based.cooking/rss.xml "Cooking"
 
 # Twitter ==================================================================
 https://nitter.cc/WWEPPorn/rss "Twitter"
