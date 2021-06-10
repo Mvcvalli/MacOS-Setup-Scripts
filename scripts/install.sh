@@ -39,7 +39,6 @@ brew install --cask element
 # brew install --cask discord
 # brew install --cask macvim
 
-
 # CLI - currently using
 brew install git
 brew install zsh
@@ -61,6 +60,7 @@ brew install tty-clock
 # brew install figlet
 # brew install wifi-password
 # brew install lynx
+# brew install tty-clock
 
 # Installing Atom Packages 
 # apm install atom-html-preview
