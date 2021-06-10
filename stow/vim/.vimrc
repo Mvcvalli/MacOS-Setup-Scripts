@@ -19,7 +19,7 @@
 	Plug 	'vim-airline/vim-airline'
 	Plug	'tpope/vim-eunuch'
 " Color Scheme	
- "	Plug	'vim-airline/vim-airline-themes'
+ 	Plug	'vim-airline/vim-airline-themes'
  "	Plug	'jacoborus/tender.vim'
 	Plug	'morhetz/gruvbox'
  "	Plug	'dikiaap/minimalist'
