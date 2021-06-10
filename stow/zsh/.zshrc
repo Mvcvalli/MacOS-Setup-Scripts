@@ -32,6 +32,7 @@ pfetch
 # Aliases
 alias v='vim'
 alias f='ranger'
+alias n='ncdu'
 
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
