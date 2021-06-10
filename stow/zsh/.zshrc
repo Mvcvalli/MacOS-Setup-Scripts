@@ -42,6 +42,7 @@ alias tty='tty-clock -t -c'
 # MacOS Package Manager Aliases
 alias install='brew install'
 alias cinstall='brew install --cask'
+alias uninstall='brew uninstall'
 alias reinstall='brew reinstall'
 alias update='brew update'
 alias upgrade='brew upgrade'
