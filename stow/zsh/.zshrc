@@ -33,7 +33,7 @@ alias n='ncdu'
 alias f='ranger'
 alias nb='newsboat'
 alias a='amfora'
-alias tty='tty-clock -t -c -D -B'
+# alias tty='tty-clock -t -c -D -B'
 
 # Aliases - Homebrew (Package Manager)
 alias install='brew install'
