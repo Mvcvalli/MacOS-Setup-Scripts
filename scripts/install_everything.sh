@@ -23,7 +23,6 @@ brew install --cask lbry
 brew install --cask mailspring
 brew install --cask onyx
 brew install --cask smcfancontrol
-brew install --cask macvim
 brew install --cask element
 
 # Apps - Not uisng anymore
@@ -38,6 +37,8 @@ brew install --cask element
 # brew install --cask protonvpn
 # brew install --cask qbittorrent
 # brew install --cask discord
+# brew install --cask macvim
+
 
 # CLI - currently using
 brew install git
@@ -48,6 +49,7 @@ brew install vim
 brew install newsboat
 brew install pfetch
 brew install ncdu
+brew install tty-clock
 
 # CLI - Not using anymore
 # brew install gotop
