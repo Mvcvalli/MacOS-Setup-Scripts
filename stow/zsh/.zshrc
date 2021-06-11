@@ -58,6 +58,10 @@ alias up='update && upgrade && clear && pfetch'
 alias fetch='clear && pfetch'
 alias cl='cleanup && doctor'
 
+# Aliases - Folders
+alias hidden='defaults write com.apple.finder AppleShowAllFiles YES' # Show hidden folders.
+alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    # Rehide hidden folders.
+
 # Aliases - Git
 alias clone='cd downloads && git clone'
 alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
