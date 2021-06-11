@@ -15,6 +15,11 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 # Path to your oh-my-zsh installation.
 export ZSH="/Users/masonchoat/.oh-my-zsh"
 
+# History in cache directory:
+HISTSIZE=10000000
+SAVEHIST=10000000
+HISTFILE=~/.cache/zsh/history
+
 # Setting up Defaults
 export EDITOR='vim'
 export TERMINAL='alacritty'
@@ -68,12 +73,7 @@ ENABLE_CORRECTION="true"
 
 # You may need to manually set your language environment
  export LANG=en_US.UTF-8
-
-# History in cache directory:
-HISTSIZE=10000000
-SAVEHIST=10000000
-HISTFILE=~/.cache/zsh/history
-
+ 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
@@ -82,10 +82,6 @@ export PATH="/usr/local/sbin:$PATH"
 export PATH="/usr/local/opt/gnu-getopt/bin:$PATH"
 
 # Misc
+source $ZSH/oh-my-zsh.sh
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
-export PATH="/usr/local/opt/gnu-getopt/bin:$PATH"
-export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
-export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
-export PATH="/usr/local/opt/luajit-openresty/bin:$PATH"
-source $ZSH/oh-my-zsh.sh
