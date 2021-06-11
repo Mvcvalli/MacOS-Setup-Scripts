@@ -25,6 +25,9 @@ export EDITOR='vim'
 export TERMINAL='alacritty'
 export BROWSER='chromium'
 
+# Correct spelling for commands
+setopt correct
+
 # Aesthetics
 ZSH_THEME="spaceship"
 ZSH_THEME="powerlevel10k/powerlevel10k"
@@ -42,7 +45,7 @@ alias a='amfora'
 
 # Aliases - Homebrew (Package Manager)
 alias install='brew install'
-alias cinstall='brew install --cask'
+alias cask='brew install --cask'
 alias uninstall='brew uninstall'
 alias reinstall='brew reinstall'
 alias update='brew update'
@@ -57,6 +60,7 @@ alias cl='cleanup && doctor'
 
 # Aliases - Git
 alias clone='cd downloads && git clone'
+alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
 
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
