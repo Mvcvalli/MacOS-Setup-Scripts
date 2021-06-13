@@ -60,8 +60,8 @@ alias cl='cleanup && doctor'
 
 # Aliases - Finder
 alias kill='killall Finder'                                         
-alias hidden='defaults write com.apple.finder AppleShowAllFiles YES' # Show hidden folders.
-alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    # Rehide hidden folders.
+alias hidden='defaults write com.apple.finder AppleShowAllFiles YES' # Show hidden folders. - must run kill afterwards
+alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    # Rehide hidden folders. - must run kill afterwards
 
 # Aliases - Git
 alias clone='cd downloads && git clone'
