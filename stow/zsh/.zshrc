@@ -40,7 +40,7 @@ alias v='vim'
 alias n='ncdu'
 alias f='ranger'
 alias nb='newsboat'
-alias a='amfora'
+alias am='amfora'
 # alias tty='tty-clock -t -c -D -B'
 
 # Aliases - Homebrew (Package Manager)
@@ -54,12 +54,12 @@ alias cleanup='brew cleanup'
 alias doctor='brew doctor'
 
 # Aliases - Terminal maintenance
-alias up='update && upgrade && clear && pfetch'
+alias up='update && upgrade && cleanup && exit'
 alias fetch='clear && pfetch'
 alias cl='cleanup && doctor'
 
 # Aliases - Finder
-alias kill='killall Finder'
+alias kill='killall Finder'                                         
 alias hidden='defaults write com.apple.finder AppleShowAllFiles YES' # Show hidden folders.
 alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    # Rehide hidden folders.
 
