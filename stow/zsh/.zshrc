@@ -64,7 +64,6 @@ alias hidden='defaults write com.apple.finder AppleShowAllFiles YES' # Show hidd
 alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    # Rehide hidden folders. - must run kill afterwards
 
 # Aliases - Git
-alias clone='cd downloads && git clone'
 alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
 
 # SPACESHIP THEME CONFIG
