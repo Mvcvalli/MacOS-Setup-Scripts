@@ -79,13 +79,6 @@ autocmd! User GoyoLeave Limelight!
 let g:limelight_conceal_ctermfg = 'gray'
 let g:limelight_conceal_ctermfg = 240
 
-" Pencil 
-augroup pencil
-  autocmd!
-  autocmd FileType markdown,mkd call pencil#init()
-  autocmd FileType text         call pencil#init()
-augroup END
-
 " Color Settings.
 set background=dark cursorline
 colorscheme space-vim-dark
