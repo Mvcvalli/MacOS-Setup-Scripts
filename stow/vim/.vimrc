@@ -11,13 +11,12 @@
 " Plug in manager, managing them plugs.
  call plug#begin('~/.vim/plugged')
  " Tools
- 	Plug	'junegunn/goyo.vim'
-  	Plug 	'junegunn/limelight.vim'
-	Plug 	'vim-airline/vim-airline'
-        Plug 'junegunn/vim-easy-align'
+ 	Plug	 'junegunn/goyo.vim'
+  	Plug 	 'junegunn/limelight.vim'
+	Plug 	 'vim-airline/vim-airline'
+        Plug     'junegunn/vim-easy-align'
 " Color Scheme	
  	Plug	'vim-airline/vim-airline-themes'
- "	Plug	'jacoborus/tender.vim'
 	Plug	'morhetz/gruvbox'
  "	Plug	'dikiaap/minimalist'
  "	Plug	'liuchengxu/space-vim-dark'	
