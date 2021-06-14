@@ -65,6 +65,7 @@ alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    # Rehide hi
 
 # Aliases - Git
 alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
+alias clone='git clone'
 
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
