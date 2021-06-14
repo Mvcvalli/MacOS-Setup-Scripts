@@ -53,7 +53,7 @@
 	set spell 
 	
 " Key-bindings
-let mapleader = "space"
+let mapleader = "/"
 
 " Goyo settings
 function! s:goyo_enter()
