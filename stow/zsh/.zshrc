@@ -55,12 +55,12 @@ alias doctor='brew doctor'
 
 # Aliases - Terminal maintenance
 alias up='update && upgrade && cleanup && exit'
-alias fetch='clear && pfetch'
+alias reset='clear && pfetch'
 alias cl='cleanup && doctor'
 
 # Aliases - Finder
 alias kill='killall Finder'                                         
-alias hidden='defaults write com.apple.finder AppleShowAllFiles YES' # Show hidden folders. - must run kill afterwards
+alias hidden='defaults write com.apple.finder AppleShowAllFiles YES' # Show hidden folders.   - must run kill afterwards
 alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    # Rehide hidden folders. - must run kill afterwards
 
 # Aliases - Git
