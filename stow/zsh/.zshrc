@@ -34,8 +34,6 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 pfetch
 
 # Aliases - App launchers
-alias q='exit'
-alias cls='clear'
 alias v='vim'
 alias n='ncdu'
 alias f='ranger'
@@ -56,6 +54,8 @@ alias cleanup='brew cleanup'
 alias doctor='brew doctor'
 
 # Aliases - Terminal maintenance
+alias q='exit'
+alias cls='clear'
 alias up='update && upgrade && cleanup'
 alias reset='clear && pfetch'
 alias cls='cleanup && doctor'
