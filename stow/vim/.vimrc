@@ -28,7 +28,6 @@
 	set encoding=utf-8
 	syntax enable
 	filetype plugin indent on
-	let mapleader =" "
 	set number
 	set relativenumber
 	set modelines=1
@@ -38,7 +37,7 @@
 	set mouse=a
 	set ruler
 	set wrap
-	set textwidth=0
+	set textwidth=100
 	set wrapmargin=0
 	set wrapscan
 	set backspace=indent,eol,start
