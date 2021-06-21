@@ -41,6 +41,8 @@ alias n='ncdu'
 alias f='ranger'
 alias nb='newsboat'
 alias am='amfora'
+alias pf='pfetch'
+alias h='htop'
 # alias tty='tty-clock -t -c -D -B'
 
 # Aliases - Homebrew (Package Manager)
@@ -54,14 +56,14 @@ alias cleanup='brew cleanup'
 alias doctor='brew doctor'
 
 # Aliases - Terminal maintenance
-alias up='update && upgrade && cleanup && exit'
+alias up='update && upgrade && cleanup'
 alias reset='clear && pfetch'
-alias cl='cleanup && doctor'
+alias cls='cleanup && doctor'
 
 # Aliases - Finder
 alias kill='killall Finder'                                         
-alias hidden='defaults write com.apple.finder AppleShowAllFiles YES' # Show hidden folders.   - must run kill afterwards
-alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    # Rehide hidden folders. - must run kill afterwards
+alias show='defaults write com.apple.finder AppleShowAllFiles YES' 
+alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    
 
 # Aliases - Git
 alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
