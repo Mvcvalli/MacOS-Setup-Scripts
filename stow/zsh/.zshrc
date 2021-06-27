@@ -41,6 +41,7 @@ alias nb='newsboat'
 alias am='amfora'
 alias pf='pfetch'
 alias h='htop'
+
 # alias tty='tty-clock -t -c -D -B'
 
 # Aliases - Homebrew (Package Manager)
@@ -55,10 +56,11 @@ alias doctor='brew doctor'
 
 # Aliases - Terminal maintenance
 alias q='exit'
+alias c='clear'
 alias cls='clear'
-alias up='update && upgrade && cleanup'
+alias up='update && upgrade'
 alias reset='clear && pfetch'
-alias cls='cleanup && doctor'
+alias doc='doctor && cleanup'
 
 # Aliases - Finder
 alias kill='killall Finder'                                         
