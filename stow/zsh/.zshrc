@@ -63,9 +63,9 @@ alias reset='clear && pfetch'
 alias doc='doctor && cleanup'
 
 # Aliases - Finder
-alias kill='killall Finder'                                         
-alias show='defaults write com.apple.finder AppleShowAllFiles YES' 
-alias hide='defaults write com.apple.finder AppleShowAllFiles NO'    
+alias kk='killall Finder'                                         
+alias ss='defaults write com.apple.finder AppleShowAllFiles YES' 
+alias hh='defaults write com.apple.finder AppleShowAllFiles NO'    
 
 # Aliases - Git
 alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
