@@ -19,31 +19,34 @@ https://distrowatch.com//news/dw.xml "Linux"
 https://www.linuxfoundation.org/feed/ "Linux"
 
 # Arch Linux Wiki ==================================================================
-https://archlinux.org/feeds/news/
-https://archlinux.org/feeds/packages/
+https://archlinux.org/feeds/news/ "Arch Linux - News'
+https://archlinux.org/feeds/packages/ "Arch Linux - Packages"
+
+# Artix Linux ==================================================================
+https://artixlinux.org/feed.php "Artix Linux"
 
 # News ===================================================================
-https://www.stuff.co.nz/feed "News"
+https://www.stuff.co.nz/feed "News - Local"
 
 # Tech Rights ===================================================================
-http://techrights.org/feed/
+http://techrights.org/feed/ "Tech-Rights"
 
 # Privacy ==================================================================
 https://www.reddit.com/r/privacy.rss "Privacy"
 https://blog.privacytools.io/rss/ "Privacy"
 
 # Wrestling ==================================================================
-https://www.wwe.com/rss.xml "Wrestling"
-https://www.njpw1972.com/feed "Wrestling"
+https://www.wwe.com/rss.xml "Wrestling - WWE"
+https://www.njpw1972.com/feed "Wrestling - NJPW"
 
 # MMA ==================================================================
-https://www.ufc.com/rss.xml "MMA"
+https://www.ufc.com/rss.xml "MMA - UFC"
 https://mmajunkie.usatoday.com/feed "MMA"
 https://www.mmaweekly.com/feed "MMA"
 
 # Twitter ==================================================================
-https://nitter.cc/WWEPPorn/rss "Twitter"
-https://nitter.cc/AEWNSFW/rss "Twitter"
+https://nitter.cc/WWEPPorn/rss "Twitter - WWEPPorn"
+https://nitter.cc/AEWNSFW/rss "Twitter - AEWNSFW"
 
 # PeerTube ==================================================================
 https://lukesmith.xyz/peertube "PeerTube - Luke Smith" 
@@ -51,11 +54,11 @@ https://share.tube/feeds/videos.xml?accountId=538 "PeerTube - HexDSL"
 https://share.tube/feeds/videos.xml?accountId=108 "PeerTube - Chris Were"
 
 # People ==================================================================
-https://lukesmith.xyz/rss.xml "People"
-https://friendo.monster/rss.xml "People"
-https://hexdsl.co.uk/rss.xml "People"
-https://stallman.org//rss/rss.xml "People"
-https://icyphox.sh/blog/feed.xml "People"
-https://christitus.com/index.xml "People"
-https://www.chrisatmachine.com/rss.xml "People"
-https://blog.tomasino.org/index.xml "People" 
+https://lukesmith.xyz/rss.xml "People - Luke Smith"
+https://friendo.monster/rss.xml "People - Friendo"
+https://hexdsl.co.uk/rss.xml "People - HexDSL"
+https://stallman.org//rss/rss.xml "People - Richard Stallman"
+https://icyphox.sh/blog/feed.xml "People - icyphox"
+https://christitus.com/index.xml "People - Chris Titus"
+https://www.chrisatmachine.com/rss.xml "People - Chris@Machine"
+https://blog.tomasino.org/index.xml "People - Tomasino" 
