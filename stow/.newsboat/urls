@@ -7,10 +7,6 @@ http://static.fsf.org/fsforg/rss/blogs.xml "FSF Blogs"
 http://www.gnu.org/rss/whatsnew.rss "GNU Project News"
 http://www.gnu.org/rss/quagga.rss "New Free Software"
 
-# Arch Linux Wiki ==================================================================
-https://archlinux.org/feeds/news/
-https://archlinux.org/feeds/packages/
-
 # Linux ==================================================================
 https://www.omgubuntu.co.uk/feed "Linux"
 https://frontpagelinux.com/feed/ "Linux"
@@ -21,11 +17,13 @@ https://thelinuxuser.com/feed/ "Linux"
 https://www.linuxtoday.com/biglt.rss "Linux"
 https://distrowatch.com//news/dw.xml "Linux"
 https://www.linuxfoundation.org/feed/ "Linux"
-https://www.linuxfoundation.org/feed/ "Linux"
+
+# Arch Linux Wiki ==================================================================
+https://archlinux.org/feeds/news/
+https://archlinux.org/feeds/packages/
 
 # News ===================================================================
 https://www.stuff.co.nz/feed "News"
-https://www.reddit.com/r/news.rss "News"
 
 # Tech Rights ===================================================================
 http://techrights.org/feed/
@@ -33,11 +31,6 @@ http://techrights.org/feed/
 # Privacy ==================================================================
 https://www.reddit.com/r/privacy.rss "Privacy"
 https://www.reddit.com/r/privacytoolsIO.rss "Privacy"
-
-# Comics =================================================================
-https://www.cbr.com/feed "Comics"
-https://speedforce.org/feed/ "Comics"
-https://www.reddit.com/r/DCcomics.rss "Comics - DC" 
 
 # Wrestling ==================================================================
 https://www.wwe.com/rss.xml "Wrestling"
@@ -48,28 +41,21 @@ https://www.ufc.com/rss.xml "MMA"
 https://mmajunkie.usatoday.com/feed "MMA"
 https://www.mmaweekly.com/feed "MMA"
 
-# Cooking ==================================================================
-https://based.cooking/rss.xml "Cooking"
-
 # Twitter ==================================================================
 https://nitter.cc/WWEPPorn/rss "Twitter"
 https://nitter.cc/AEWNSFW/rss "Twitter"
-https://nitter.cc/fsf/rss "Twitter"
 
 # PeerTube ==================================================================
 https://lukesmith.xyz/peertube "PeerTube - Luke Smith" 
 https://share.tube/feeds/videos.xml?accountId=538 "PeerTube - HexDSL"
 https://share.tube/feeds/videos.xml?accountId=108 "PeerTube - Chris Were"
-https://share.tube/feeds/videos.xml?videoChannelId=656 "PeerTube - Trendy Talk"
 
 # People ==================================================================
 https://lukesmith.xyz/rss.xml "People"
 https://friendo.monster/rss.xml "People"
 https://hexdsl.co.uk/rss.xml "People"
-https://gideonwolfe.com/index.xml "People"
 https://stallman.org//rss/rss.xml "People"
 https://icyphox.sh/blog/feed.xml "People"
 https://christitus.com/index.xml "People"
 https://www.chrisatmachine.com/rss.xml "People"
-https://www.hamvocke.com/feed.xml "People"
 https://blog.tomasino.org/index.xml "People" 
