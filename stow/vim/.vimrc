@@ -17,9 +17,7 @@
         Plug     'junegunn/vim-easy-align'
 " Color Scheme	
  	Plug	'vim-airline/vim-airline-themes'
-	Plug	'morhetz/gruvbox'
- "	Plug	'dikiaap/minimalist'
- "	Plug	'liuchengxu/space-vim-dark'	
+	Plug	'morhetz/gruvbox'	
 	call plug#end()
 
 " Genreal.
