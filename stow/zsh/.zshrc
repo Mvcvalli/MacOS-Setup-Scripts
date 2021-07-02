@@ -31,7 +31,7 @@ setopt correct
 # Aesthetics
 ZSH_THEME="spaceship"
 ZSH_THEME="powerlevel10k/powerlevel10k"
-pfetch
+neofetch --ascii_distro Gentoo
 
 # Aliases - App launchers
 alias v='vim'
@@ -70,6 +70,9 @@ alias hh='defaults write com.apple.finder AppleShowAllFiles NO'
 # Aliases - Git
 alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
 alias clone='git clone'
+
+# Aliases - Misc
+alias neonew='neofetch --ascii_distro'
 
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
