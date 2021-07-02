@@ -42,7 +42,9 @@ alias am='amfora'
 alias pf='pfetch'
 alias h='htop'
 
-# alias tty='tty-clock -t -c -D -B'
+# Aliases - CLI Progams
+alias neonew='neofetch --ascii_distro'
+alias tty='tty-clock -t -c -D -B'
 
 # Aliases - Homebrew (Package Manager)
 alias install='brew install'
@@ -70,9 +72,6 @@ alias hh='defaults write com.apple.finder AppleShowAllFiles NO'
 # Aliases - Git
 alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
 alias clone='git clone'
-
-# Aliases - Misc
-alias neonew='neofetch --ascii_distro'
 
 # SPACESHIP THEME CONFIG
 SPACESHIP_DIR_PREFIX='' # disable directory prefix, cause it's not the first section
