@@ -46,14 +46,13 @@ brew install htop
 brew install ranger
 brew install vim
 brew install newsboat
-brew install pfetch
+brew install neofetch
 brew install ncdu
 
 # CLI - Not using anymore
 # brew install gotop
 # brew install gdu
 # brew install archey
-# brew install neofetch
 # brew install bpytop
 # brew install tree
 # brew install figlet
@@ -61,6 +60,8 @@ brew install ncdu
 # brew install lynx
 # brew install tty-clock
 # brew install cmatrix
+# brew install pfetch
+
 
 # Installing Atom Packages 
 # apm install atom-html-preview
