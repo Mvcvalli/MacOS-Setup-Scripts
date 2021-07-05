@@ -30,6 +30,10 @@ https://www.stuff.co.nz/feed "News - Local"
 https://celebjihad.com/feed "News - Celebrity NSFW"
 http://techrights.org/feed/ "News - Tech"
 
+# Government ===================================================================
+https://www.govt.nz// "Government - New Zealand"
+https://www.nasa.gov/rss/dyn/breaking_news.rss "Government - NASA"
+
 # Privacy ==================================================================
 https://www.reddit.com/r/privacy.rss "Privacy"
 https://blog.privacytools.io/rss/ "Privacy"
