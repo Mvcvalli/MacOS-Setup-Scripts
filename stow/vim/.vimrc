@@ -50,7 +50,9 @@
 	set spell 
 	
 " Key-bindings
-let mapleader = "/"
+let mapleader = " "
+nnoremap Q <nop>
+
 
 " Goyo settings
 function! s:goyo_enter()
