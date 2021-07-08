@@ -52,7 +52,11 @@
 " Key-bindings
 let mapleader = " "
 nnoremap Q <nop>
-
+nnoremap <Up> <nop>
+nnoremap <Down> <nop>
+nnoremap <Left> <nop> 
+nnoremap <Right> <nop>
+nnoremap <leader><ENTER> :Goyo<CR>
 
 " Goyo settings
 function! s:goyo_enter()
