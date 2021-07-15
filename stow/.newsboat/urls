@@ -56,10 +56,6 @@ https://lukesmith.xyz/peertube "PeerTube - Luke Smith"
 https://share.tube/feeds/videos.xml?accountId=538 "PeerTube - HexDSL"
 https://share.tube/feeds/videos.xml?accountId=108 "PeerTube - Chris Were"
 
-# Misc ==================================================================
-https://based.cooking/rss.xml "Cooking"
-https://landchad.net/rss.xml "Technology" 
-
 # People ==================================================================
 https://lukesmith.xyz/rss.xml "People - Luke Smith"
 https://friendo.monster/rss.xml "People - Friendo"
@@ -69,3 +65,7 @@ https://icyphox.sh/blog/feed.xml "People - icyphox"
 https://christitus.com/index.xml "People - Chris Titus"
 https://www.chrisatmachine.com/rss.xml "People - Chris@Machine"
 https://blog.tomasino.org/index.xml "People - Tomasino" 
+
+# Misc ==================================================================
+https://based.cooking/rss.xml "Cooking"
+https://landchad.net/rss.xml "Technology" 
