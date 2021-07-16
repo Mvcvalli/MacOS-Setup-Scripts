@@ -77,6 +77,13 @@ git clone https://github.com/lukesmithxyz/kjv.git
 cd kjv
 sudo make install
 
+# Installing No More Secrets
+git clone https://github.com/bartobri/no-more-secrets.git
+cd ./no-more-secrets
+make nms
+make sneakers             ## Optional
+sudo make install
+
 # Installing VimPlug
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
