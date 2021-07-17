@@ -14,7 +14,6 @@ brew cleanup
 brew install --cask alacritty
 brew install --cask amethyst
 brew install --cask appcleaner
-brew install --cask eloston-chromium
 brew install --cask cheatsheet
 brew install --cask cloudflare-warp
 brew install --cask dozer
@@ -23,7 +22,7 @@ brew install --cask lbry
 brew install --cask mailspring
 brew install --cask onyx
 brew install --cask smcfancontrol
-brew install --cask element
+brew install --cask firefox
 
 # Apps - Not uisng anymore
 # brew install --cask atom
@@ -38,6 +37,8 @@ brew install --cask element
 # brew install --cask qbittorrent
 # brew install --cask discord
 # brew install --cask macvim
+# brew install --cask element
+# brew install --cask eloston-chromium
 
 # CLI - currently using
 brew install git
@@ -61,7 +62,6 @@ brew install ncdu
 # brew install tty-clock
 # brew install cmatrix
 # brew install pfetch
-
 
 # Installing Atom Packages 
 # apm install atom-html-preview
