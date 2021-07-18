@@ -101,5 +101,8 @@ source $ZSH/oh-my-zsh.sh
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 typeset -g POWERLEVEL9K_INSTANT_PROMPT=off
 
+# Load autosuggestions
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+
 # Load syntax highlighting; should be last.
 source /Users/masonchoat/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
