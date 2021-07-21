@@ -21,9 +21,10 @@ SAVEHIST=10000000
 HISTFILE=~/.cache/zsh/history
 
 # Setting up Defaults
-export EDITOR='vim'
 export TERMINAL='alacritty'
-export BROWSER='chromium'
+export BROWSER='firefox'
+export MANPAGER='vim'
+export EDITOR='vim'
 
 # Correct spelling for commands
 setopt correct
