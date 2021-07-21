@@ -23,7 +23,7 @@ HISTFILE=~/.cache/zsh/history
 # Setting up Defaults
 export TERMINAL='alacritty'
 export BROWSER='firefox'
-export MANPAGER='vim'
+export MANPAGER='vim -M +MANPAGER -'
 export EDITOR='vim'
 
 # Correct spelling for commands
