@@ -70,6 +70,11 @@ alias kk='killall Finder'
 alias ss='defaults write com.apple.finder AppleShowAllFiles YES' 
 alias hh='defaults write com.apple.finder AppleShowAllFiles NO'    
 
+# Aliases - Directory Navigation
+alias de='cd ~/Desktop'
+alias doc='cd ~/Documents'
+alias pic='cd ~/Pictures'
+
 # Aliases - Git
 alias mydots='clone https://github.com/Mvcvalli/MacOS-dotfiles'
 alias clone='git clone'
